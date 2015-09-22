@@ -1,0 +1,10 @@
+C:\Users\wardp_000\Desktop\workspace\ParticleTest\ParticleTest\bin\WindowsGL\Debug\ParticleTest.exe
+C:\Users\wardp_000\Desktop\workspace\ParticleTest\ParticleTest\bin\WindowsGL\Debug\ParticleTest.pdb
+C:\Users\wardp_000\Desktop\workspace\ParticleTest\ParticleTest\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\wardp_000\Desktop\workspace\ParticleTest\ParticleTest\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\wardp_000\Desktop\workspace\ParticleTest\ParticleTest\obj\x86\Debug\ParticleTest.csprojResolveAssemblyReference.cache
+C:\Users\wardp_000\Desktop\workspace\ParticleTest\ParticleTest\obj\x86\Debug\ParticleTest.exe
+C:\Users\wardp_000\Desktop\workspace\ParticleTest\ParticleTest\obj\x86\Debug\ParticleTest.pdb
+C:\Users\wardp_000\Desktop\workspace\ParticleTest\ParticleTest\bin\WindowsGL\Debug\Content\circle.png
+C:\Users\wardp_000\Desktop\workspace\ParticleTest\ParticleTest\bin\WindowsGL\Debug\Content\diamond.png
+C:\Users\wardp_000\Desktop\workspace\ParticleTest\ParticleTest\bin\WindowsGL\Debug\Content\star.png
